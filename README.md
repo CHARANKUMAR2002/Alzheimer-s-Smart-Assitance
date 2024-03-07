@@ -1,4 +1,4 @@
-# s8
+# Alzheimer's Smart Assistance
 
 A new Flutter project.
 
